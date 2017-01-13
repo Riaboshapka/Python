@@ -9,3 +9,5 @@ We passed upon the stairs
 
 Something string which added in 'experemental' branch
 
+Text which added after merge 'experimental' and 'master'
+
