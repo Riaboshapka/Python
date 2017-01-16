@@ -1,2 +1,3 @@
 some new text
 Ho-ho-ho :)
+parameter=4(master)
