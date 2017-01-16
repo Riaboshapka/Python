@@ -1,3 +1,6 @@
 some new text
 Ho-ho-ho :)
-parameter=4(master)
+<<<<<<< HEAD
+parameter=4(master) or 2(test)
+
+>>>>>>> test
