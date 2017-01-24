@@ -1,6 +1,0 @@
-some new text
-Ho-ho-ho :)
-<<<<<<< HEAD
-parameter=4(master) or 2(test)
-
->>>>>>> test
