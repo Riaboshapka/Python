@@ -1,0 +1,47 @@
+* 980aa86 7e45947 2017-01-26 - add loop to the script  (HEAD -> testing, origin/master, origin/HEAD, master)
+* 7e45947 4600fff 2017-01-24 - delete 1.link/ with content 
+* 4600fff 98a4ea4 2017-01-24 - add first script in bash directory 
+* 98a4ea4 f3cd47e 2017-01-24 - add Desktop-2 files 
+*   f3cd47e bb9f7a3 9cee29e 2017-01-23 - Merge branch 'master' of https://github.com/Riaboshapka/Python 
+|\  
+| * 9cee29e b48ccc3 2017-01-23 - add .gitignore and modify status.txt 
+| *   b48ccc3 ca993bd ce19d9f 2017-01-23 - Merge remote-tracking branch 'origin/master' 
+| |\  
+| | * ce19d9f efe0f23 2017-01-23 - Delete .gitignore 
+| | * efe0f23 47ae6ec 2017-01-23 - Delete .gitattributes 
+| | * 47ae6ec 13830bd 2017-01-23 - add git files to .gitignore 
+| * | ca993bd 2eb31c2 2017-01-23 - add status.txt 
+| * | 2eb31c2 ddcd6bb 2017-01-23 - del .git* from repo. Attempt #2 
+| * | ddcd6bb 13830bd 2017-01-23 - add git files to .gitignore 
+| |/  
+* |   bb9f7a3 f5d05c4 211c009 2017-01-17 - solve the conflict 
+|\ \  
+| * | 211c009 455f47d 2017-01-17 - edit new.txt in test 
+* | | f5d05c4 455f47d 2017-01-17 - edit new.txt in master 
+|/ /  
+* | 455f47d e1333d9 2017-01-14 - remove a few empty strings in 'new2.txt' 
+* |   e1333d9 d7850a3 2511ed9 2017-01-14 - Merge branch 'test' 
+|\ \  
+| * | 2511ed9 c6b5a15 2017-01-13 - edit new2.txt under 'test' branch 
+* | | d7850a3 2db16c9 2017-01-14 - add text in new2.txt after merge 'exp..' and master before merge with 'test' 
+* | |   2db16c9 e9586c8 5bbb4a5 2017-01-14 - Merge branch 'experimental' 
+|\ \ \  
+| * | | 5bbb4a5 c6b5a15 2017-01-13 - added text in new2.txt file in branch 'experimental' 
+| |/ /  
+* | | e9586c8 c6b5a15 2017-01-13 - edit new2.txt over 'master' 
+|/ /  
+* | c6b5a15 b4ea9cf 2017-01-08 - added new3.txt file 
+* | b4ea9cf 13830bd 2017-01-08 - editing of new2.txt v.1.1 
+|/  
+* 13830bd 2133149 2017-01-08 - add new2.txt file with LF where local and global is input but system is true 
+* 2133149 3e1f3b2 2017-01-08 - Commit with LF txt file 
+* 3e1f3b2 8f5f616 2017-01-08 - Add a folder with file 
+*   8f5f616 1a1a25a 01ac5b3 2017-01-07 - Merge branch 'master' of https://github.com/Riaboshapka/Python 
+|\  
+| * 01ac5b3 8722fe5 2015-06-28 - Delete L8_9_1.py 
+| * 8722fe5 5a5eff5 2015-06-27 - Rename L8_9_1 to L8_9_1.py 
+| * 5a5eff5 a9be73f 2015-06-27 - Create L8_8_1.py 
+* | 1a1a25a a9be73f 2017-01-07 - py first commit 
+|/  
+* a9be73f 32d4670 2015-06-27 - Create L8_9_1 
+* 32d4670  2015-06-27 - :octocat: Added .gitattributes & .gitignore files 
