@@ -2,7 +2,6 @@
 * 980aa86 7e45947 2017-01-26 - add loop to the script  (HEAD -> master, origin/master, origin/HEAD)
 OR
 * 980aa86 7e45947 2017-01-26 - add loop to the script  (HEAD -> testing, origin/master, origin/HEAD, master)
-=======
 # This text under "testing" branch
 * 9c734cd 980aa86 2017-02-13 - add log.txt in testing branch  (HEAD -> testing)
 * 980aa86 7e45947 2017-01-26 - add loop to the script  (origin/master, origin/HEAD)
